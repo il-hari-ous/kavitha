@@ -1,0 +1,6 @@
+numpy 
+django
+joblib
+scikit-learn
+psycopg2
+
